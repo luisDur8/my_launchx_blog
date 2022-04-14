@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://luisdur8.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://luisdur8.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://luisdur8.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
