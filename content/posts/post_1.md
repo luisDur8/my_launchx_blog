@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de aprendizaje"
 date: 2022-04-04
-description: 'Aquí encontrarás todo lo que vaya aprendiendo en Launch X'
+description: 'Aquí encontrarás en resúmen lo que vaya aprendiendo en Launch X'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Al día de hoy he repasado Python, aprendido Github, Requerimientos para crear una página web, HTML, CSS, JS, VUE, Angular, Azure y un poco más.
