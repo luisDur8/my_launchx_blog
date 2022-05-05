@@ -5,17 +5,13 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy un autodidacta que vive feliz haciendo código todos los días :D
+> Tengo un grupo hermoso (semisecreto) de compañeros de estudio (TH).
+> Hace 4 meses tuve una idea, crear una comunidad de estudiantes en Tech que se ayudasen a sí mismos.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Talento Sistemas** Es como se conoce a la ahora organización de enseñanza de temas Tech.
+Su finalidad, ayudar a ingresar al mundo laboral con mayor auge y beneficios de la actualidad.
